@@ -51,4 +51,5 @@ graph TD
     DB2bMaster -->|Sync| DB2bSlave
     DB3aMaster -->|Sync| DB3aSlave
     DB3bMaster -->|Sync| DB3bSlave
-ввыывпы
+![1](https://github.com/user-attachments/assets/d64d1eaf-036b-4d68-8fdc-95eb8f5931da)
+
