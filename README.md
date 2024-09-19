@@ -11,7 +11,16 @@
 ![image](https://github.com/user-attachments/assets/0185e537-ee22-4f12-8296-ee48645eba62)
 
 ### Задание 3
+![image](https://github.com/user-attachments/assets/82121068-49cb-432b-8873-641263bff4bf)
+![image](https://github.com/user-attachments/assets/242b5129-239c-45a8-9d5a-13275baaefd7)
+![image](https://github.com/user-attachments/assets/8e700539-9285-4721-996f-e9f8baec1ab4)
+
 ![image](https://github.com/user-attachments/assets/8bd419a3-ef93-4069-9969-fb41c0004fb9)
+![image](https://github.com/user-attachments/assets/c06e83a6-68f2-48b7-9238-debcac250e1e)
+![image](https://github.com/user-attachments/assets/9dcf2f83-3f05-4bd8-a859-36683d6372ac)
+![image](https://github.com/user-attachments/assets/563bad23-76f0-4028-a5c9-76dc33a554c0)
+![image](https://github.com/user-attachments/assets/079bea02-70cc-4758-be6a-d633829faf70)
+![image](https://github.com/user-attachments/assets/bb94d7fc-df38-42e7-bc74-16ac5cabe67d)
 
 
 
