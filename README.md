@@ -51,3 +51,4 @@ graph TD
     DB2bMaster -->|Sync| DB2bSlave
     DB3aMaster -->|Sync| DB3aSlave
     DB3bMaster -->|Sync| DB3bSlave
+ввыывпы
