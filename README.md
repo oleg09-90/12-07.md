@@ -8,7 +8,9 @@
 ![image](https://github.com/user-attachments/assets/03999cf2-36ee-476f-b2fa-815e85beb7aa)
 
 ### Задание 2
-![1](https://github.com/user-attachments/assets/9e3676ca-e5fc-4378-8125-237f4ab50e8a)
+![image](https://github.com/user-attachments/assets/0185e537-ee22-4f12-8296-ee48645eba62)
+
+
 
 # Блок-схема базы данных
 
