@@ -8,6 +8,8 @@
 ![image](https://github.com/user-attachments/assets/03999cf2-36ee-476f-b2fa-815e85beb7aa)
 
 ### Задание 2
+![1](https://github.com/user-attachments/assets/9e3676ca-e5fc-4378-8125-237f4ab50e8a)
+
 # Блок-схема базы данных
 
 ```mermaid
@@ -51,5 +53,5 @@ graph TD
     DB2bMaster -->|Sync| DB2bSlave
     DB3aMaster -->|Sync| DB3aSlave
     DB3bMaster -->|Sync| DB3bSlave
-![1](https://github.com/user-attachments/assets/d64d1eaf-036b-4d68-8fdc-95eb8f5931da)
+
 
