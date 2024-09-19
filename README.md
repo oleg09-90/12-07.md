@@ -10,6 +10,9 @@
 ### Задание 2
 ![image](https://github.com/user-attachments/assets/0185e537-ee22-4f12-8296-ee48645eba62)
 
+### Задание 3
+![image](https://github.com/user-attachments/assets/8bd419a3-ef93-4069-9969-fb41c0004fb9)
+
 
 
 # Блок-схема базы данных
